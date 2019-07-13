@@ -1,29 +1,10 @@
-# vue-dashboard-demo
+# Vue Dashboard Demo
+<img src="demo.gif" width="100%">
 
-## Project setup
-```
-npm install
-```
+* Vue dashboard demo with resizable and movable widgets<br/>
+* Light and dark themes available<br/>
+* Vuetify design system<br/>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Try it
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Run `npm install` followed by `npm run serve` for a dev server. Navigate to `http://localhost:8080/` to try it
