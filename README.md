@@ -1,7 +1,7 @@
 # Vue Dashboard Demo
 <img src="demo.gif" width="100%">
 
-* Vue dashboard demo with resizable and movable widgets<br/>
+* Vue (v2.6) dashboard demo with resizable and movable widgets<br/>
 * Light and dark themes available<br/>
 * Vuetify design system<br/>
 
